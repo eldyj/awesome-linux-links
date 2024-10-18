@@ -1,7 +1,7 @@
 # awesome-linux-links
 A curated collection of essential links and resources for Linux users, from official documentation to community tools and tutorials.
 
-[🇺🇦 Український переклад](https://github.com/Xellor-Dev/awesome-linux-links/tree/Ukrainian)
+[🇺🇦 Український переклад](https://github.com/Xellor-Dev/awesome-linux-links/links.ua.md)
 
 
 
