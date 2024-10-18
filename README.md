@@ -1,7 +1,7 @@
 # awesome-linux-links
 A curated collection of essential links and resources for Linux users, from official documentation to community tools and tutorials.
 
-[🇺🇦 Український переклад](links.ua.md)
+[🇺🇦 Український переклад](README.ua.md)
 
 
 
