@@ -3,6 +3,19 @@ A curated collection of essential links and resources for Linux users, from offi
 
 [🇺🇦 Український переклад](README.ua.md)
 
+# Table of Contents
+1. [Communities](#communities)
+2. [Tools and Utilities](#tools-and-utilities)
+3. [Gaming and Entertainment](#gaming-and-entertainment)
+4. [Development Tools](#development-tools)
+5. [System Monitoring](#system-monitoring)
+6. [Backup Solutions](#backup-solutions)
+7. [Networking Tools](#networking-tools)
+8. [Videos and YouTube Channels](#videos-and-youtube-channels)
+9. [Blogs and News](#blogs-and-news)
+10. [Learning and Courses](#learning-and-courses)
+11. [Documentation](#documentation)
+
 # Communities
 - [Stack Overflow](https://stackoverflow.com/) for questions and answers on programming and system administration
 - [LinuxQuestions.org](https://www.linuxquestions.org) - A community-driven site with forums, reviews, and tutorials dedicated to Linux users.
@@ -18,6 +31,8 @@ A curated collection of essential links and resources for Linux users, from offi
 - [Homebrew](https://brew.sh/) - The missing package manager for Linux (or MacOS).
 - [Neofetch](https://github.com/dylanaraps/neofetch) - Command-line tool to display system information in an aesthetic format.
 - [htop](https://htop.dev/) - An interactive process viewer for Unix systems.
+- [Lime Text](https://limetext.org/) - A powerful and lightweight text editor.
+- [btop](https://github.com/aristocratos/btop) - A resource monitor that shows usage and stats for processor, memory, disks, network, and processes.
 - [GParted](https://gparted.org/) - A free partition editor for graphically managing disk partitions.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - A terminal emulator that supports multiple terminal panes in one window.
 - [Synaptic](https://www.nongnu.org/synaptic/) - A graphical package manager for managing software packages.
@@ -131,3 +146,4 @@ A curated collection of essential links and resources for Linux users, from offi
 - [Arch Wiki](https://wiki.archlinux.org/) - A community-driven wiki for Arch Linux, but useful for all Linux users.
 - [Ubuntu Documentation](https://help.ubuntu.com/) - Official documentation for Ubuntu users.
 - [Fedora Docs](https://docs.fedoraproject.org/) - Official documentation for Fedora users.
+
