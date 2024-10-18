@@ -3,7 +3,7 @@ A curated collection of essential links and resources for Linux users, from offi
 
 [🇺🇦 Український переклад](README.ua.md)
 
-
+1
 
 # Communities
 - [Stack Overflow](https://stackoverflow.com/) for questions and answers on programming and system administration
