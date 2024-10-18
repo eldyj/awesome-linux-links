@@ -3,8 +3,6 @@ A curated collection of essential links and resources for Linux users, from offi
 
 [🇺🇦 Український переклад](README.ua.md)
 
-1
-
 # Communities
 - [Stack Overflow](https://stackoverflow.com/) for questions and answers on programming and system administration
 - [LinuxQuestions.org](https://www.linuxquestions.org) - A community-driven site with forums, reviews, and tutorials dedicated to Linux users.
@@ -133,5 +131,3 @@ A curated collection of essential links and resources for Linux users, from offi
 - [Arch Wiki](https://wiki.archlinux.org/) - A community-driven wiki for Arch Linux, but useful for all Linux users.
 - [Ubuntu Documentation](https://help.ubuntu.com/) - Official documentation for Ubuntu users.
 - [Fedora Docs](https://docs.fedoraproject.org/) - Official documentation for Fedora users.
-- test
-- 1
