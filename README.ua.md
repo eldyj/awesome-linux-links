@@ -16,7 +16,7 @@
 8. [Відео та канали YouTube](#відео-та-канали-youtube)
 9. [Блоги та новини](#блоги-та-новини)
 10. [Навчання та курси](#навчання-та-курси)
-11. [Документація](#документація)
+11. [Документації](#документації)
 
 # Спільноти
 - [Stack Overflow](https://stackoverflow.com/) - запитання та відповіді з програмування та системного адміністрування
@@ -143,7 +143,7 @@
 - [edX Linux Courses](https://www.edx.org/learn/linux) - Безкоштовні онлайн-курси від провідних університетів.
 - [Coursera Linux Courses](https://www.coursera.org/courses?query=linux) - Онлайн-курси від провідних університетів і компаній.
 
-# Документація
+# Документації
 - [The Linux Documentation Project](https://www.tldp.org/) - Повна колекція документації Linux.
 - [Arch Wiki](https://wiki.archlinux.org/) - Керована спільнотою вікі для Arch Linux, але корисна для всіх користувачів Linux.
 - [Ubuntu Documentation](https://help.ubuntu.com/) - Офіційна документація для користувачів Ubuntu.
