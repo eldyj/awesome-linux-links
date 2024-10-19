@@ -31,7 +31,7 @@ A curated collection of essential links and resources for Linux users, from offi
 - [Homebrew](https://brew.sh/) - The missing package manager for Linux (or MacOS).
 - [Neofetch](https://github.com/dylanaraps/neofetch) - Command-line tool to display system information in an aesthetic format.
 - [htop](https://htop.dev/) - An interactive process viewer for Unix systems.
-- [Lime Text](https://limetext.org/) - A powerful and lightweight text editor.
+- [Lime Text](https://limetext.github.io/) - Powerful and elegant text editor, free and open-source software successor to Sublime Text.
 - [btop](https://github.com/aristocratos/btop) - A resource monitor that shows usage and stats for processor, memory, disks, network, and processes.
 - [GParted](https://gparted.org/) - A free partition editor for graphically managing disk partitions.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - A terminal emulator that supports multiple terminal panes in one window.
